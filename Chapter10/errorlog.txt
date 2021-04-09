@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "D:/Software/MCL/pythonfiles/Chapter10/test.py", line 8, in error
+    raise Exception("´í´í´í´í´í´í´í£¡£¡£¡£¡")
+Exception: ´í´í´í´í´í´í´í£¡£¡£¡£¡
